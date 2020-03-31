@@ -9,7 +9,7 @@
 
 ### 윤영
 
-- 일주일에 * 문제
+- 일주일에 * 문제 (HGASAlgo/JYY/README.md에 매주 작성)
 - 언어: Java
 
 
